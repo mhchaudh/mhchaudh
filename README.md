@@ -22,22 +22,22 @@ Here are some of the key projects you can find in my repositories:
 ### 2. **Project Name 2**
 - **Description:** A brief description of what the project is about.
 - **Technologies Used:** List of technologies used.
-- **Link to Repository:** [Project Name 2 Repository](https://github.com/yourusername/projectname2)
+- **Link to Repository:** [Project Name 2 Repository](https://github.com/mhchaudh/Project-2.git)
 
 ### 3. **Project Name 3**
 - **Description:** A brief description of what the project is about.
 - **Technologies Used:** List of technologies used.
-- **Link to Repository:** [Project Name 3 Repository](https://github.com/yourusername/projectname3)
+- **Link to Repository:** [Project Name 3 Repository](https://github.com/mhchaudh/Project-3.git)
 
 ### 4. **Project Name 4**
 - **Description:** A brief description of what the project is about.
 - **Technologies Used:** List of technologies used.
-- **Link to Repository:** [Project Name 4 Repository](https://github.com/yourusername/projectname4)
+- **Link to Repository:** [Project Name 4 Repository](https://github.com/mhchaudh/Project-4.git)
 
 ### 5. **Project Name 5**
 - **Description:** A brief description of what the project is about.
 - **Technologies Used:** List of technologies used.
-- **Link to Repository:** [Project Name 5 Repository](https://github.com/yourusername/projectname5)
+- **Link to Repository:** [Project Name 5 Repository](https://github.com/mhchaudh/Project-5.git)
 
 
 
