@@ -17,7 +17,7 @@ Here are some of the key projects you can find in my repositories:
 ### 1. **Project Name 1**
 - **Description:** A brief description of what the project is about.
 - **Technologies Used:** List of technologies used.
-- **Link to Repository:** [Project Name 1 Repository](https://github.com/yourusername/projectname1)
+- **Link to Repository:** [Project Name 1 Repository](https://github.com/mhchaudh/Project-1.git)
 
 ### 2. **Project Name 2**
 - **Description:** A brief description of what the project is about.
