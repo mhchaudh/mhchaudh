@@ -16,32 +16,30 @@ Here are some of the key projects you can find in my repositories:
 
 (The repositories PROJECT 1 and PROJECT 3 contain copyrighted content. Therefore, access to these repositories is restricted to private viewing only using the link below.)
 
-### 1. **Project Name 1**
-- **Description:** A brief description of what the project is about.
-- **Technologies Used:** List of technologies used.
+### 1. **KIT app**
+- **Description:** The Kit app features a user-friendly interface designed for effortless storage and tracking of diverse items. Its dynamic categorization enhances functionality by allowing efficient organization and retrieval. Additionally, secure backup and retrieval features ensure data reliability and user convenience.
+- **Technologies Used:** Java
 - **Link to Repository:** [Project Name 1 Repository](https://gitfront.io/r/mhchaudh/ZeKFzcKQBuAG/Project-1/)
 
-### 2. **Project Name 2**
-- **Description:** A brief description of what the project is about.
-- **Technologies Used:** List of technologies used.
+### 2. **Metaprogramming**
+- **Description:** Explored metaprogramming in Python, crafting code that dynamically generates other Python programs. This approach enhanced automation and customization in project development.
+- **Technologies Used:** Python
 - **Link to Repository:** [Project Name 2 Repository](https://github.com/mhchaudh/Project-2.git)
 
-### 3. **Project Name 3**
-- **Description:** A brief description of what the project is about.
-- **Technologies Used:** List of technologies used.
+### 3. **Cipher**
+- **Description:** Created a Cipher encryption program in Python, C, and RISC-V assembly language, demonstrating proficiency in multiple programming languages and computer architectures and showcasing versatility as a software developer.
+- **Technologies Used:** Python, C, RISC-V
 - **Link to Repository:** [Project Name 3 Repository](https://gitfront.io/r/mhchaudh/oVhCxAVoLUCh/Project-3/)
 
-### 4. **Project Name 4**
-- **Description:** A brief description of what the project is about.
-- **Technologies Used:** List of technologies used.
+### 4. **Wordle**
+- **Description:** Developed a Python-based Wordle game, highlighting programming and problem-solving skills. This project demonstrated expertise in creating interactive applications and optimizing data structures, strengthening Python programming and game development abilities.
+- **Technologies Used:** Python
 - **Link to Repository:** [Project Name 4 Repository](https://github.com/mhchaudh/Project-4.git)
 
-### 5. **Project Name 5**
-- **Description:** A brief description of what the project is about.
-- **Technologies Used:** List of technologies used.
+### 5. **ATM System**
+- **Description:** Created a Python-based ATM system and integrated MySQL for data management, demonstrating software development and database skills. Implemented secure withdrawal, deposit, and balance check functionalities.
+- **Technologies Used:** Python and MySQL
 - **Link to Repository:** [Project Name 5 Repository](https://github.com/mhchaudh/Project-5.git)
-
-
 
 
 ## Contact
