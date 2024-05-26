@@ -13,6 +13,7 @@ Feel free to explore, review, and provide feedback. I'm always open to suggestio
 ## Projects
 
 Here are some of the key projects you can find in my repositories:
+(The repositories PROJECT 1 and PROJECT 3 contain copyrighted content. Therefore, access to these repositories is restricted to private viewing only using the link below.)
 
 ### 1. **Project Name 1**
 - **Description:** A brief description of what the project is about.
