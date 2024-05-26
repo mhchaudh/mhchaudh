@@ -14,7 +14,7 @@ Feel free to explore, review, and provide feedback. I'm always open to suggestio
 
 Here are some of the key projects you can find in my repositories:
 
-(The repositories PROJECT 1 and PROJECT 3 contain copyrighted content. Therefore, access to these repositories is restricted to private viewing only using the link below.)
+**Note:** The repositories  1 and  3 contain copyrighted content. Therefore, access to these repositories is restricted to private viewing only using the link below.
 
 ### 1. **KIT app**
 - **Description:** The Kit app features a user-friendly interface designed for effortless storage and tracking of diverse items. Its dynamic categorization enhances functionality by allowing efficient organization and retrieval. Additionally, secure backup and retrieval features ensure data reliability and user convenience.
