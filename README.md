@@ -29,7 +29,7 @@ Here are some of the key projects you can find in my repositories:
 ### 3. **Project Name 3**
 - **Description:** A brief description of what the project is about.
 - **Technologies Used:** List of technologies used.
-- **Link to Repository:** [Project Name 3 Repository](https://github.com/mhchaudh/Project-3.git)
+- **Link to Repository:** [Project Name 3 Repository](https://gitfront.io/r/mhchaudh/oVhCxAVoLUCh/Project-3/)
 
 ### 4. **Project Name 4**
 - **Description:** A brief description of what the project is about.
